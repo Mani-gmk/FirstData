@@ -27,6 +27,8 @@ This project analyzes sales data and presents key business insights using intera
 - Top Products
 - KPI Cards
 
+<img width="887" height="500" alt="Screenshot 2026-07-26 161437" src="https://github.com/user-attachments/assets/d922e5be-42a9-42c3-9d34-8a164f2569ab" />
+
 
 
 ## 🚀 Key Insights
