@@ -27,6 +27,7 @@ This project analyzes sales data and presents key business insights using intera
 - Top Products
 - KPI Cards
 
+<img width="887" height="500" alt="Screenshot 2026-07-26 161437" src="https://github.com/user-attachments/assets/cb44c9dd-90a9-41cb-ae5c-c132debcbbe5" />
 
 ## 🚀 Key Insights
 - Highest sales month
